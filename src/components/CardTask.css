@@ -1,0 +1,23 @@
+.card-task {
+  text-align: center;
+  font-size: 1.4rem;
+  color: #495057;
+  font-weight: 400;
+  border-radius: 6px;
+  background-color: #fff;
+  padding: 1.8rem;
+  margin-bottom: 1.2em;
+}
+
+.card-task--to-do {
+  border: 0.2rem solid #8ce99a;
+}
+
+.card-task--in-progress{
+  border: 0.2rem solid #f783ac;
+}
+
+.card-task--done {
+  border: 0.2rem solid #f783ac;
+  background-color: #ced4da;
+}
